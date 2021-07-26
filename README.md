@@ -36,7 +36,7 @@ My name is Pavel. I'm from Minsk. I'm front-end developer.
    
 2. [TO-DO list](https://pavel8293-pavel.github.io/Training-tasks/todo-app/src/): 
    
-   [Code](https://github.com/pavel8293-pavel/RS-School-tasks/tree/calculator/calculator). Simple web-application repeating calculator functions. Used HTML, CSS, JS. Completed during education at Rolling Scopes School Front-end course.
+   [Code](https://github.com/pavel8293-pavel/RS-School-tasks/tree/calculator/calculator). Simple web-application repeating to-do lists' functions. Used HTML, CSS, JS.
 
 3. [Momentum](https://awesome-hypatia-091940.netlify.app/):
    
