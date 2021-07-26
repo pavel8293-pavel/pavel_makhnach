@@ -54,21 +54,5 @@ My name is Pavel. I'm from Minsk. I'm front-end developer.
 
    [Code](https://github.com/pavel8293-pavel/coderman). Browser educational game that helps kids learn the basics of programming. Used Angular, Phaser 3, Ace Editor. Completed during education at Rolling Scopes School Front-end course.
 
-### Objectives:
-* Find a job where I can get new skills and apply the skills I have got.  
-* Develop as a specialist.    
-* Contribute professional skills to achieving your company's
-goals as a Web developer.    
-* Try myself in new conditions.  
-* Get experience in a large organization.  
-
-### Personal qualities:
-- Ability to work in a team.  
-- Focus on a result.  
-- Analytic skills.  
-- Interest in new things.  
-- Team management skills.
-  
-#### Personality: responsible, sociable, capable of learning, determined.  
 
 
